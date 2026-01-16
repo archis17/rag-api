@@ -2,3 +2,7 @@
 db
 __pycache__
 venv
+
+Dockerfile
+deployment.yaml
+service.yaml
